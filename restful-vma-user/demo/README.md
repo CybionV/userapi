@@ -36,5 +36,5 @@ API Restful para el registro de usuarios, generando un token jwt para cada uno, 
 ### Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/user-api.git
+git clone [https://github.com/yourusername/user-api.git](https://github.com/CybionV/userapi.git)
 cd user-api
